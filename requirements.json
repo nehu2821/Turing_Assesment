@@ -1,0 +1,5 @@
+{
+  "time": 2,
+  "space": 256,
+  "notes": "O(n+q) solution comfortably fits within limits. n, q <= 1e5."
+}
